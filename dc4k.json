@@ -1,14 +1,6 @@
 {
   "urls": [
     {
-      "name": "🐯自定fav",
-      "url": "http://williamc.tplinkdns.com/iptv/fav.json"
-    },
-    {
-      "name": "🐯自定tb",
-      "url": "http://williamc.tplinkdns.com/iptv/tb.json"
-    },
-    {
       "name": "🐯自定favnet",
       "url": "http://williamc.ddns.net/iptv/fav.json"
     },
